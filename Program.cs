@@ -10,6 +10,11 @@ namespace KPL_1302201138_MOD3_JURNAL_GGR
     {
         static void Main(string[] args)
         {
+            KodeBuah buah = new KodeBuah();
+            Console.WriteLine("Apel = "+ buah.getKodeBuah(KodeBuah.Buah.Apel);
+
+            transition player = new transition;
+            
         }
     }
 }
